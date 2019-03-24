@@ -3,11 +3,4 @@ A Basic Book Store Desktop App With Java
 
 In this desktop app :
 
-You can sign up,
-You can login,
-You can login as admin,
-You can show books that in database,
-You can update books that in database,
-You can delete books that in database,
-You can make order,
-You can show orders.
+You can sign up, login, login as admin, show books that in database, update books that in database, delete books that in database, make order, show orders.
